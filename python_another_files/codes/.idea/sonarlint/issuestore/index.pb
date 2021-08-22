@@ -1,0 +1,3 @@
+
+R
+"detector_de_palavras_em_imagens.py,6\d\6d461381245b822937950298913376fdca47f738
